@@ -1,0 +1,76 @@
+.title3 {
+    color: rgb(9, 116, 80);;
+    justify-content: center;
+}
+
+.selo1 {
+    color: rgb(9, 116, 80);
+    background-color: rgb(9, 116, 80);
+
+}
+
+.selo2 {
+    color: rgb(42, 134, 177);
+    background-color: rgb(42, 134, 177);
+}
+
+.selo3 {
+    color: orange;
+    background-color: orange;
+}
+
+.section4 {
+    display: flex;
+    justify-content: center;
+}
+
+.p1 {
+    
+    width: 300px;
+    height: 100px;
+}
+
+.p2 {
+
+    width: 300px;
+    height: 100px;
+}
+
+.p3{
+
+    width: 300px;
+    height: 100px;
+}
+
+.section4 p {
+    border-radius: 10px;
+    border-color: black;
+}
+
+.title4 {
+    color: rgb(42, 134, 177);;
+}
+
+.title5 {
+    color: orange;
+}
+
+.section4 h1 {
+    border-bottom: 1px solid gray;
+}
+
+.divs4-1 {
+    border: 1px solid;
+    padding: 0px 0px 20px 0px;
+}
+
+.divs4-2 {
+    border: 1px solid;
+}
+
+.divs4-3 {
+    border: 1px solid;
+}
+.section4 h1 {
+    margin:0px;
+}

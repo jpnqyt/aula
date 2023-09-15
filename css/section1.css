@@ -1,0 +1,112 @@
+.section1 {
+    display: flex;
+    background-image: url(../fotos1/foto3.png);
+    padding: 30px;
+    gap: 400px;
+    flex-direction: column;
+    color: gray;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.section1 .button1 {
+    cursor: pointer;
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+    color: white;
+    width: max-content;
+}
+
+
+.logo2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.title1 {
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title2 {
+    display: flex;
+    justify-content: center;
+    color: rgb(20, 69, 141)
+}
+
+.section2 {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+
+.parag1 {
+    display: flex;
+    justify-content: center;
+
+}
+    
+.flecha1 {
+    background-color: blue;
+    display: flex;
+    align-items: center;   
+    column-gap: 30px;
+}
+
+.parag2 {
+    display: flex;
+    align-items: center;
+    background-color: blue; 
+    margin: 0;
+
+}
+.parag3{
+ background-color:green ;
+ margin: 0;
+}
+.parag4{
+    margin: 0;
+    background-color: aqua;
+}
+.parag5 {
+    margin: 0;
+    background-color: blueviolet;
+}
+.parag6 {
+    background-color: aquamarine;
+    margin: 0;
+}
+
+.parag7 {
+    background-color: chocolate;
+    margin: 0;
+}
+
+.div2 {
+    display: flex;
+    background-color: blue;
+
+}
+
+.flecha2 {
+    background-color: green;
+}
+
+.flecha3 {
+ background-color: aqua;
+}
+
+.flecha4 {
+ background-color: blueviolet;
+}
+
+.flecha5 {
+ background-color: aquamarine;
+}
+
+.flecha6 {
+    background-color: chocolate;
+}

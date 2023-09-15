@@ -1,0 +1,41 @@
+.div3 {
+    display: flex;
+    background-color: green;
+}
+
+.div4 {
+    display: flex;
+    background-color: aqua;
+
+}
+
+.div5 {
+    display: flex;
+    background-color: blueviolet;
+}
+
+.div6
+{
+    display: flex;
+    background-color: aquamarine;
+
+    }
+
+.div7 {
+    display: flex;
+    background-color: chocolate;
+}
+
+.section3 {
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.section3 p {
+    width: 300px;
+}
+
+.section3 div {
+    width: 48%;
+}

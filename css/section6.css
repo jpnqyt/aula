@@ -1,0 +1,47 @@
+.section6 {
+    background-image:url(../fotos1/achievement-adult-agreement-1391373.png) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section6 p {
+    height: 250px;
+}
+
+
+
+.section7 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section8 {
+    display: flex;
+    border-radius: 20px;
+    border-color: rgb(168, 168, 168, .3);
+    background-color: rgb(168, 168, 168, .3);
+    flex-direction: column;
+    width: max-content;
+    margin: auto;
+    padding: 20px;
+    gap: 20px;
+}
+
+.button3 {
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.section8 label {
+    justify-content: flex-start;
+}
+
+.section8 input {
+    align-items: center;
+}
